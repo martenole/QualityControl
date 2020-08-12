@@ -1,0 +1,7 @@
+<map id="Task" name="Task">
+<area shape="rect" id="node2" href="$classClustersRootFileReaderMFT.html" title="{ClustersRootFileReaderMFT\n||+ init()\l+ run()\l}" alt="" coords="5,226,195,318"/>
+<area shape="rect" id="node3" href="$classDigitsRootFileReaderMFT.html" title="{DigitsRootFileReaderMFT\n||+ init()\l+ run()\l}" alt="" coords="219,226,394,318"/>
+<area shape="rect" id="node4" href="$classo2_1_1quality__control_1_1core_1_1TaskRunner.html" title="A class driving the execution of a QC task inside DPL. " alt="" coords="418,131,619,413"/>
+<area shape="rect" id="node5" href="$classo2_1_1quality__control_1_1example_1_1ExampleQualityPrinterSpec.html" title="Example DPL task to be plugged after a QC check. " alt="" coords="643,226,890,318"/>
+<area shape="rect" id="node6" href="$classTracksRootFileReaderMFT.html" title="{TracksRootFileReaderMFT\n||+ init()\l+ run()\l}" alt="" coords="914,226,1094,318"/>
+</map>

@@ -1,0 +1,24 @@
+<map id="o2::quality_control::checker::CheckInterface" name="o2::quality_control::checker::CheckInterface">
+<area shape="rect" id="node2" href="$classo2_1_1quality__control_1_1test_1_1TestCheck.html" title="{o2::quality_control\l::test::TestCheck\n|+ mValidString\l|+ TestCheck()\l+ ~TestCheck()\l+ configure()\l+ check()\l+ beautify()\l+ getAcceptedType()\l}" alt="" coords="5,277,149,443"/>
+<area shape="rect" id="node3" href="$classo2_1_1quality__control__modules_1_1common_1_1MeanIsAbove.html" title="Check whether the mean of the plot is above a certain limit. " alt="" coords="173,277,397,443"/>
+<area shape="rect" id="node4" href="$classo2_1_1quality__control__modules_1_1common_1_1NonEmpty.html" title="Check whether a plot is empty or not. " alt="" coords="422,270,629,450"/>
+<area shape="rect" id="node5" href="$classo2_1_1quality__control__modules_1_1daq_1_1EverIncreasingGraph.html" title="Check whether a plot is empty or not. " alt="" coords="653,270,856,450"/>
+<area shape="rect" id="node6" href="$classo2_1_1quality__control__modules_1_1emcal_1_1DigitCheck.html" title="Check whether a plot is empty or not. " alt="" coords="880,270,1075,450"/>
+<area shape="rect" id="node7" href="$classo2_1_1quality__control__modules_1_1emcal_1_1RawCheck.html" title="EMCAL raw data check It is final because there is no reason to derive from it. Just remove it if need..." alt="" coords="1099,270,1293,450"/>
+<area shape="rect" id="node8" href="$classo2_1_1quality__control__modules_1_1example_1_1FakeCheck.html" title="Check whether a plot is empty or not. " alt="" coords="1317,270,1528,450"/>
+<area shape="rect" id="node9" href="$classo2_1_1quality__control__modules_1_1mft_1_1BasicClusterQcCheck.html" title="MFT Cluster Check. " alt="" coords="1553,263,1741,457"/>
+<area shape="rect" id="node10" href="$classo2_1_1quality__control__modules_1_1mft_1_1BasicDigitQcCheck.html" title="MFT Digit Check. " alt="" coords="1765,263,1955,457"/>
+<area shape="rect" id="node11" href="$classo2_1_1quality__control__modules_1_1mft_1_1BasicTrackQcCheck.html" title="MFT Track Check. " alt="" coords="1979,263,2175,457"/>
+<area shape="rect" id="node12" href="$classo2_1_1quality__control__modules_1_1muonchambers_1_1PedestalsCheck.html" title="Check whether a plot is empty or not. " alt="" coords="2199,263,2374,457"/>
+<area shape="rect" id="node13" href="$classo2_1_1quality__control__modules_1_1phos_1_1DigitCheck.html" title="Check mos: appearence of dead regions in occupancy plots, mean and RMS etc. " alt="" coords="2399,270,2585,450"/>
+<area shape="rect" id="node14" href="$classo2_1_1quality__control__modules_1_1phos_1_1RawCheck.html" title="PHOS raw data check It is final because there is no reason to derive from it. Just remove it if neede..." alt="" coords="2609,270,2796,450"/>
+<area shape="rect" id="node15" href="$classo2_1_1quality__control__modules_1_1skeleton_1_1SkeletonCheck.html" title="Example QC Check. " alt="" coords="2820,263,2967,457"/>
+<area shape="rect" id="node16" href="$classo2_1_1quality__control__modules_1_1tof_1_1CheckCompressedData.html" title="Checker for the data produced by the TOF compressor (i.e. checking raw data) " alt="" coords="2991,277,3241,443"/>
+<area shape="rect" id="node17" href="$classo2_1_1quality__control__modules_1_1tof_1_1CheckDiagnostics.html" title="Checker for diagnostic histogram of TOF Raw data. " alt="" coords="3265,270,3481,450"/>
+<area shape="rect" id="node18" href="$classo2_1_1quality__control__modules_1_1tof_1_1CheckRawMultiplicity.html" title="Check whether a plot is empty or not. " alt="" coords="3506,277,3742,443"/>
+<area shape="rect" id="node19" href="$classo2_1_1quality__control__modules_1_1tof_1_1CheckRawTime.html" title="{o2::quality_control\l_modules::tof::CheckRawTime\n||+ CheckRawTime()\l+ ~CheckRawTime()\l+ configure()\l+ check()\l+ beautify()\l+ getAcceptedType()\l}" alt="" coords="3767,277,3969,443"/>
+<area shape="rect" id="node20" href="$classo2_1_1quality__control__modules_1_1tof_1_1CheckRawToT.html" title="{o2::quality_control\l_modules::tof::CheckRawToT\n||+ CheckRawToT()\l+ ~CheckRawToT()\l+ configure()\l+ check()\l+ beautify()\l+ getAcceptedType()\l}" alt="" coords="3993,277,4191,443"/>
+<area shape="rect" id="node21" href="$classo2_1_1quality__control__modules_1_1tpc_1_1PIDClusterCheck.html" title="Check whether the cluster number for a track is smaller than 159 in PID task. " alt="" coords="4215,277,4430,443"/>
+<area shape="rect" id="node22" href="$classo2_1_1quality__control__modules_1_1tpc_1_1TrackClusterCheck.html" title="Check whether the cluster number for a track is smaller than 40 or 20 in Track task. " alt="" coords="4455,270,4641,450"/>
+<area shape="rect" id="node23" href="$classTestCheck.html" title="{TestCheck\n|+ mCheck\l+ mBeautify\l|+ TestCheck()\l+ configure()\l+ check()\l+ beautify()\l+ getAcceptedType()\l}" alt="" coords="4665,285,4809,435"/>
+</map>

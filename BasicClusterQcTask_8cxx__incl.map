@@ -1,0 +1,10 @@
+<map id="Modules/MFT/src/BasicClusterQcTask.cxx" name="Modules/MFT/src/BasicClusterQcTask.cxx">
+<area shape="rect" id="node5" href="$QcInfoLogger_8h.html" title="QualityControl/QcInfoLogger.h" alt="" coords="427,95,625,121"/>
+<area shape="rect" id="node7" href="$BasicClusterQcTask_8h.html" title="MFT/BasicClusterQcTask.h" alt="" coords="649,95,835,121"/>
+<area shape="rect" id="node8" href="$TaskInterface_8h.html" title="QualityControl/TaskInterface.h" alt="" coords="642,169,842,196"/>
+<area shape="rect" id="node15" href="$Activity_8h.html" title="QualityControl/Activity.h" alt="" coords="1148,244,1312,271"/>
+<area shape="rect" id="node16" href="$ObjectsManager_8h.html" title="QualityControl/ObjectsManager.h" alt="" coords="1336,244,1551,271"/>
+<area shape="rect" id="node17" href="$MonitorObject_8h.html" title="QualityControl/MonitorObject.h" alt="" coords="1045,326,1247,353"/>
+<area shape="rect" id="node21" href="$MonitorObjectCollection_8h.html" title="QualityControl/MonitorObject\lCollection.h" alt="" coords="1348,319,1539,360"/>
+<area shape="rect" id="node24" href="$TaskConfig_8h.html" title="QualityControl/TaskConfig.h" alt="" coords="783,326,970,353"/>
+</map>

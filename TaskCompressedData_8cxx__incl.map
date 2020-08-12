@@ -1,0 +1,10 @@
+<map id="Modules/TOF/src/TaskCompressedData.cxx" name="Modules/TOF/src/TaskCompressedData.cxx">
+<area shape="rect" id="node9" href="$QcInfoLogger_8h.html" title="QualityControl/QcInfoLogger.h" alt="" coords="269,95,467,121"/>
+<area shape="rect" id="node11" href="$TaskCompressedData_8h.html" title="Task To monitor data converted from TOF compressor, it implements a dedicated decoder from DecoderBas..." alt="" coords="1200,95,1395,121"/>
+<area shape="rect" id="node13" href="$TaskInterface_8h.html" title="QualityControl/TaskInterface.h" alt="" coords="1437,177,1637,203"/>
+<area shape="rect" id="node20" href="$Activity_8h.html" title="QualityControl/Activity.h" alt="" coords="1945,259,2109,285"/>
+<area shape="rect" id="node21" href="$ObjectsManager_8h.html" title="QualityControl/ObjectsManager.h" alt="" coords="2133,259,2347,285"/>
+<area shape="rect" id="node22" href="$MonitorObject_8h.html" title="QualityControl/MonitorObject.h" alt="" coords="1894,341,2095,367"/>
+<area shape="rect" id="node26" href="$MonitorObjectCollection_8h.html" title="QualityControl/MonitorObject\lCollection.h" alt="" coords="2145,333,2335,375"/>
+<area shape="rect" id="node29" href="$TaskConfig_8h.html" title="QualityControl/TaskConfig.h" alt="" coords="1632,341,1819,367"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="o2::quality_control::postprocessing::Reductor" name="o2::quality_control::postprocessing::Reductor">
+<area shape="rect" id="node2" href="$classMyReductor.html" title="{MyReductor\n|+ integral\l|+ MyReductor()\l+ ~MyReductor()\l+ getBranchAddress()\l+ getBranchLeafList()\l+ update()\l}" alt="" coords="5,285,155,421"/>
+<area shape="rect" id="node3" href="$classo2_1_1quality__control__modules_1_1common_1_1QualityReductor.html" title="A Reductor of QualityObjects, stores a name and level of a Quality. " alt="" coords="179,263,418,443"/>
+<area shape="rect" id="node4" href="$classo2_1_1quality__control__modules_1_1common_1_1TH1Reductor.html" title="A Reductor which obtains the most popular characteristics of TH1. " alt="" coords="442,263,665,443"/>
+<area shape="rect" id="node5" href="$classo2_1_1quality__control__modules_1_1common_1_1TH2Reductor.html" title="A Reductor which obtains the most popular characteristics of TH2. " alt="" coords="689,204,911,501"/>
+<area shape="rect" id="node6" href="$classo2_1_1quality__control__modules_1_1common_1_1THnSparseReductor.html" title="A Reductor which obtains the most popular characteristics of THnSparse. " alt="" coords="935,255,1145,450"/>
+<area shape="rect" id="node7" href="$classo2_1_1quality__control__modules_1_1emcal_1_1DigitOccupancyReductor.html" title="A Reductor which obtains the most popular characteristics of TH2. " alt="" coords="1169,263,1391,443"/>
+<area shape="rect" id="node8" href="$classo2_1_1quality__control__modules_1_1tpc_1_1ROCReductor.html" title="A Reductor of ROC, stores mean, standard deviation and median for each ROC. " alt="" coords="1416,263,1611,443"/>
+</map>

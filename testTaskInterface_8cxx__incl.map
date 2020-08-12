@@ -1,0 +1,10 @@
+<map id="Framework/test/testTaskInterface.cxx" name="Framework/test/testTaskInterface.cxx">
+<area shape="rect" id="node2" href="$TaskFactory_8h.html" title="QualityControl/TaskFactory.h" alt="" coords="582,80,775,107"/>
+<area shape="rect" id="node7" href="$TaskInterface_8h.html" title="QualityControl/TaskInterface.h" alt="" coords="767,155,967,181"/>
+<area shape="rect" id="node20" href="$QcInfoLogger_8h.html" title="QualityControl/QcInfoLogger.h" alt="" coords="1041,80,1239,107"/>
+<area shape="rect" id="node4" href="$TaskConfig_8h.html" title="QualityControl/TaskConfig.h" alt="" coords="643,311,829,338"/>
+<area shape="rect" id="node11" href="$Activity_8h.html" title="QualityControl/Activity.h" alt="" coords="665,229,829,256"/>
+<area shape="rect" id="node12" href="$ObjectsManager_8h.html" title="QualityControl/ObjectsManager.h" alt="" coords="367,229,582,256"/>
+<area shape="rect" id="node13" href="$MonitorObject_8h.html" title="QualityControl/MonitorObject.h" alt="" coords="366,311,567,338"/>
+<area shape="rect" id="node17" href="$MonitorObjectCollection_8h.html" title="QualityControl/MonitorObject\lCollection.h" alt="" coords="151,304,342,345"/>
+</map>
